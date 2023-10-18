@@ -1,6 +1,6 @@
 # Всем привет, меня зовут Сергей 👋 
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username)
+[![codewars]([https://www.codewars.com/users/username/badges/large](https://www.codewars.com/users/serp123616512/badges/large))](https://www.codewars.com/users/username)
 <!--
 **serp123616512/serp123616512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
